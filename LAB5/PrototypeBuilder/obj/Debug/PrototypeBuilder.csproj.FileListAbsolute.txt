@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\LAB5\PrototypeBuilder\bin\Debug\PrototypeBuilder.exe.config
+C:\Users\User\Desktop\LAB5\PrototypeBuilder\bin\Debug\PrototypeBuilder.exe
+C:\Users\User\Desktop\LAB5\PrototypeBuilder\bin\Debug\PrototypeBuilder.pdb
+C:\Users\User\Desktop\LAB5\PrototypeBuilder\obj\Debug\PrototypeBuilder.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LAB5\PrototypeBuilder\obj\Debug\PrototypeBuilder.Form1.resources
+C:\Users\User\Desktop\LAB5\PrototypeBuilder\obj\Debug\PrototypeBuilder.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LAB5\PrototypeBuilder\obj\Debug\PrototypeBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LAB5\PrototypeBuilder\obj\Debug\PrototypeBuilder.exe
+C:\Users\User\Desktop\LAB5\PrototypeBuilder\obj\Debug\PrototypeBuilder.pdb
